@@ -21,3 +21,4 @@ VALUES ('Wireless Bluetooth Headphones', 59.99, 'High-quality sound and noise ca
        ('Organic Coffee Beans', 15.75, '100% Arabica beans with a rich, smooth flavor.', 8),
        ('Car Vacuum Cleaner', 39.99, 'Portable handheld vacuum designed for cars and tight spaces.', 9),
        ('Dog Chew Toy Pack', 22.49, 'Durable rubber chew toys for medium to large dogs.', 10);
+
