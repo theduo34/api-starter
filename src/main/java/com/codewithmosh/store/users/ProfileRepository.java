@@ -1,4 +1,4 @@
-package com.codewithmosh.store.repositories;
+package com.codewithmosh.store.users;
 
 import com.codewithmosh.store.entities.Profile;
 import org.springframework.data.repository.CrudRepository;
