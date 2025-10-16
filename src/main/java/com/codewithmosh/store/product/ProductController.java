@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 @RestController
 @AllArgsConstructor
 @RequestMapping("/products")
-@Tag(name = "Products")
+@Tag(name = "Product")
 public class ProductController {
    private final ProductRepository productRepository;
    private final ProductMapper productMapper;

@@ -18,7 +18,7 @@ import java.util.Set;
 @RestController
 @AllArgsConstructor
 @RequestMapping("/users")
-@Tag(name = "Users")
+@Tag(name = "User")
 public class UserController {
 
     private final UserRepository userRepository;
