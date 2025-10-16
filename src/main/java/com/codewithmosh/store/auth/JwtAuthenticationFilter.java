@@ -1,4 +1,4 @@
-package com.codewithmosh.store.filters;
+package com.codewithmosh.store.auth;
 
 import com.codewithmosh.store.auth.JwtService;
 import jakarta.servlet.FilterChain;

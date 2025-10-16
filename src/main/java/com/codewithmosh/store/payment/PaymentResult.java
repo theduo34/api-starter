@@ -1,6 +1,6 @@
 package com.codewithmosh.store.payment;
 
-import com.codewithmosh.store.entities.OrderStatus;
+import com.codewithmosh.store.order.OrderStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

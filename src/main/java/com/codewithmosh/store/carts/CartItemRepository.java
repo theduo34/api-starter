@@ -1,6 +1,5 @@
-package com.codewithmosh.store.repositories;
+package com.codewithmosh.store.carts;
 
-import com.codewithmosh.store.entities.CartItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CartItemRepository  extends JpaRepository<CartItem, Byte> {

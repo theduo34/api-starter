@@ -1,12 +1,8 @@
-package com.codewithmosh.store.controllers;
+package com.codewithmosh.store.auth;
 
-import com.codewithmosh.store.config.JwtConfig;
-import com.codewithmosh.store.dtos.JwtResponse;
-import com.codewithmosh.store.dtos.LoginRequest;
-import com.codewithmosh.store.dtos.UserDto;
-import com.codewithmosh.store.mappers.UserMapper;
+import com.codewithmosh.store.users.UserDto;
+import com.codewithmosh.store.users.UserMapper;
 import com.codewithmosh.store.users.UserRepository;
-import com.codewithmosh.store.auth.JwtService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletResponse;

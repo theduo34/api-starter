@@ -1,9 +1,6 @@
-package com.codewithmosh.store.controllers;
+package com.codewithmosh.store.order;
 
-import com.codewithmosh.store.dtos.ErrorDto;
-import com.codewithmosh.store.dtos.OrderDto;
-import com.codewithmosh.store.exceptions.OrderNotFoundException;
-import com.codewithmosh.store.order.OrderService;
+import com.codewithmosh.store.common.ErrorDto;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
 

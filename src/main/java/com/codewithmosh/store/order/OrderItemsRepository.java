@@ -1,6 +1,5 @@
-package com.codewithmosh.store.repositories;
+package com.codewithmosh.store.order;
 
-import com.codewithmosh.store.entities.OrderItems;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OrderItemsRepository extends JpaRepository<OrderItems, Long> {

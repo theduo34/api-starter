@@ -1,4 +1,4 @@
-package com.codewithmosh.store.dtos;
+package com.codewithmosh.store.auth;
 
 import com.codewithmosh.store.common.Lowercase;
 import jakarta.validation.constraints.Email;

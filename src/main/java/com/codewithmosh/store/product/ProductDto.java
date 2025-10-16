@@ -1,6 +1,5 @@
-package com.codewithmosh.store.dtos;
+package com.codewithmosh.store.product;
 
-import com.codewithmosh.store.entities.Category;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
