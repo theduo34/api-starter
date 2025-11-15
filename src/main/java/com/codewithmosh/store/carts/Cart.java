@@ -51,7 +51,6 @@ public class Cart {
             cartItem.setCart(this);
             cartItems.add(cartItem);
         }
-
         return cartItem;
     }
 
